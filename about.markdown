@@ -33,9 +33,9 @@ In order for me to consider this project somewhat of a success, the SARnet2 shou
 
 I'll be starting out with [Jekyll](https://jekyllrb.com/), a Ruby Gem that I'll use in conjunction with [Minimal Mistakes](https://mademistakes.com/work/jekyll-themes/minimal-mistakes/). I've seen what these two look like in action thanks to the modding group (for Titanfall 2) [Northstar](https://northstar.tf/blog/), and I'll be attempting to emulate their layout while building off of it to suit my needs listed above. 
 
-## Patch Notes
+## Patch Notes (Dates are DMY)
 
-### Pre-Preproduction
+### Preproduction
 
 <ins>11.03.2023</ins>
 - Restarted Project
@@ -44,11 +44,20 @@ I'll be starting out with [Jekyll](https://jekyllrb.com/), a Ruby Gem that I'll 
 - Installed Jekyll
 - Added README to respository
 
-<ins>14.03.2023</ins>
+<ins>13.03.2023</ins>
 - Moved project off of SARnet2 Repo for now
 - Will move back when more feature complete
 - Completed first draft of Sitemap
 
+#### Production Phase
+
+<ins>14.03.2023</ins>
+- Project now on GitHub Pages
+- Will add custom URL when feature complete
+
+
 <em>Known Issues</em>
-- Images not embedding
-- About section taking precedence over actual homepage
+- Images not formatted correctly 
+- There's nothing on this website
+- It's not very pretty. 
+- Needs favicon
