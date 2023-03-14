@@ -21,16 +21,14 @@
 title: Seb. A-R.
 email: me@seb-ar.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Checking if this You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  SARnet2 was made by me for viewers like you. Thank you!
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: seb_ar_
 github_username:  carnoo
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "contrast"
 plugins:
   - jekyll-feed
