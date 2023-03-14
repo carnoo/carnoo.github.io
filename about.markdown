@@ -7,7 +7,9 @@ permalink: /about/
 # Seb. A-R. Website Overhaul Project 2023
 
 
-![banner](img/favicon.png)
+<p align="center">
+  <img src="img/favicon.png" />
+</p>
 
 <em>Once More, With Feeling!</em>
 
