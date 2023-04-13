@@ -7,9 +7,9 @@ permalink: /about/
 # Seb. A-R. Website Overhaul Project 2023
 
 
-<p align="center">
-  <img src="img/favicon.png" />
-</p>
+<div style="text-align: center;">
+  ![favicon](carnoo.github.io/img/favicon.png)
+</div>
 
 <em>Once More, With Feeling!</em>
 
