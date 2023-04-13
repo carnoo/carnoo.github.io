@@ -2,14 +2,17 @@
 layout: posts
 title: About
 permalink: /about/
+css: ./_site/css/main.css
 ---
 
 # Seb. A-R. Website Overhaul Project 2023
 
 
 <div style="text-align: center;">
-  ![favicon](carnoo.github.io/img/favicon.png)
+  ![favicon](./img/favicon.png)
 </div>
+
+![favicon](./img/favicon.png){: .centred-image }
 
 
 <em>Once More, With Feeling!</em>
