@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Menagrie for Discord"
-date:   2023-11-09 13:11:01 -0400
-categories: pastprojects
+date:   2022-11-09 13:11:01 -0500
 image: /assets/images/beaverdemo.png
 ---
+
 ![beaverdemo]({{page.image}})
 
 ## Connection Error identification and tracking for Destiny 2, all within Discord. No Bungie API required.
