@@ -1,0 +1,88 @@
+---
+layout: post
+title: LIS 5916 - Exploration into AI, Machine and Deep Learning
+permalink: /LIS5916/
+image: /assets/images/STIT.png
+---
+
+![header]({{page.image}})
+
+
+## This is a course I took as a part of the Master of Information Technology program at Florida State Univeristy. You can find the link [here.](https://bitbucket.org/sa17d/lis5916/src/master/)
+
+### Course Description:
+
+This course is an explorative introduction into artificial intelligence, machine learning, deep learning,
+and its associated fields, concepts, and technologies. AI and its related fields are used in a profusion of
+diverse areas; from forecasting weather trends, business needs assessments, to medical/health
+analytics, computer/security surveillance and protection, farm science, energy production, urban
+planning, image and biometric analysis and recognition, as well as many other useful applications. The
+possibilities and utilizations of these burgeoning AI fields are limitless.
+Just as importantly, the employment opportunities are equally available and lucrative. The foci of this
+course will be on the current and relevant trends and applications in these fields, as well as the related
+skill sets. The skills, tools, and techniques learned in this course are relevant to careers in the
+aforementioned areas.
+
+### Course Objectives: 
+At the end of the course, the student will be able to:
+- Define terms and concepts used in AI and related fields;
+- Create individual development and distributed version control environments;
+- Identify characteristics of various intelligent systems;
+- Evaluate AI strategies used to address specific practical real-world applications;
+- Apply AI techniques on data sets at a basic level.
+
+*Course Work Links:*
+
+1. [Assignment 1: Version Control and Development Installation - A1 README.md](https://bitbucket.org/sa17d/lis5916/src/b5021bafc8b3f000d02542f749281fbeaebed413/a1/README.md)
+    - Version Control Setup and Installations
+        - Setting up Git on remote and home workstations
+        - Installing R
+        - Installing Anaconda
+        - Jupyter Notebooks Setup
+    - A1 Assignment - First Python Assignment
+        - Answering Questions
+        - A1 Tip Calculaor, written in Python
+        - Create a Jupyter Notebook or A1TC
+
+2. [Assignment 2: Backwards Engineering and Jupyter Notebooks - A2 README.md](https://bitbucket.org/sa17d/lis5916/src/b5021bafc8b3f000d02542f749281fbeaebed413/a2/README.md)
+    - Reverse Engineer Python content 
+        - Post results in Juypter Notebooks enivronment
+    - Screenshots of resulting code in Jupyter Notebooks
+    - Assignment Questions
+
+3. [Assignment 3 -More Work with DataFrames in PythonA3 README.md](https://bitbucket.org/sa17d/lis5916/src/master/a3/)
+    - Reverse engineer python content
+        - Post results in a Jupyter Notebooks
+    - Make some sick graphs 
+    - Post a GIF file of it running in IPYNB
+    -Assignment Questions
+
+4. [Project 1 - Predictive Analysis (Simple Linear Regression) P1 README.md](https://bitbucket.org/sa17d/lis5916/src/b5021bafc8b3f000d02542f749281fbeaebed413/p1/README.md)
+    - Reverse engineer python content
+        - Post results in a Jupyter Notebooks
+    - Learning Linear Regression!
+    - Building a model using housing data
+    - Starting work with Seaborn
+    - Make some sick graphs 
+    - Post a GIF file of it running in IPYNB
+    -Assignment Questions
+
+5. [Assignment 4 - Predictive Analysis (SLR)](https://bitbucket.org/sa17d/lis5916/src/b5021bafc8b3f000d02542f749281fbeaebed413/a4/README.md)
+    - Contrast similarities/differences among AI vs. Machine-Learning 
+    - Idenitfy Correlations
+    - Use Seaborn (data)
+    - Graph correlations 
+    - Use simple linear regression
+    - Create linear model
+    - Plot regression line
+    - Make predictions - using simple regression model 
+    - Pick residuals
+
+6. [Assignment 5 - Predictive Analysis (MLR README.md](https://bitbucket.org/sa17d/lis5916/src/b5021bafc8b3f000d02542f749281fbeaebed413/a5/README.md)
+    - Predictive Analysis
+    - Analyze Data
+    - Identify Correlations
+    - Create multiple regression model
+    - Find best line to predict output
+
+7. [P2 README.md](p2/README.md "P2 Due Apr. 19")
