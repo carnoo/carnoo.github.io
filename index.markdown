@@ -7,7 +7,7 @@ image: /assets/images/image-default.jpg
 ---
 ![header]({{page.image}})
 
-# Seb. A-R. Website Overhaul Project 2023
+# Seb A-R
 
 
 <em>Once More, With Feeling!</em>
@@ -55,6 +55,11 @@ In order for me to consider this project somewhat of a success, the SARnet2 shou
 <ins>02.08.2023</ins>
 - Holy shit we have images!
 - Populated the site with some barebones stuff
+
+<ins>05.31.2025</ins>
+- Website is exiting matinenance mode to add a couple articles to expand on what I've been working on for the past two years. 
+- Stay tuned!
+- Updated Localization Files.
 
 <em>Known Issues</em>
 - Images not formatted correctly 

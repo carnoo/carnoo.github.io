@@ -3,6 +3,10 @@
 
 
 #### Important Patch Notes:
+  - *2025.05.31*
+    - Began Initial Updates to Website
+    - Planning a wider revamp including recap of career progress since June 2024
+    - Updated Localization Files
 
 - *2024.06.19:*
   - Addressed a security issue concerning a denial of service vulnerability via the REXML Ruby Gem.
