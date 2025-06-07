@@ -7,7 +7,12 @@ image: /assets/images/bll2.png
 ---
 
 
-![beatLogo]({{page.image}})
+{% include figure
+   image_path=page.image
+   alt="Header image"
+   caption="the beatLink Logo! Took ten thousand years in PS"
+   class="align-center"
+%}
 
 ## Yep, it's yet another discord music bot.
 
