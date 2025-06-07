@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   SARnet2 was made by me for viewers like you. Thank you!
 # baseurl: "/home" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: seb_ar_
+bluesky_username: seb-ar.net
 github_username:  carnoo
 
 
