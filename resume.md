@@ -7,4 +7,4 @@ css: ./_site/css/main.css
 ---
 ## If you want my resume, you can find it....
 
-[here](/assets/ResumeDC2TS.pdf)
+[here](/assets/Resume26RTS.pdf)
