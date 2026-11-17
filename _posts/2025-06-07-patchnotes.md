@@ -11,7 +11,7 @@ permalink: /patchnotes/
 - Added Local Repository
 - Installed Ruby
 - Installed Jekyll
-- Added README to respository
+- Added README to repository
 
 <ins>19.07.2023</ins>
 - Moved project off of SARnet2 Repo for now
@@ -32,8 +32,8 @@ permalink: /patchnotes/
 - Holy shit we have images!
 - Populated the site with some barebones stuff
 
-<ins>05.31.2025</ins>
-- Website is exiting matinenance mode to add a couple articles to expand on what I've been working on for the past two years. 
+<ins>31.05.2025</ins>
+- Website is exiting maintenance mode to add a couple articles to expand on what I've been working on for the past two years. 
 - Stay tuned!
 - Updated Localization Files.
 

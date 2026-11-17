@@ -20,13 +20,16 @@
 url: "https://seb-ar.net"
 title: Seb A-R.
 email: me@seb-ar.net
-description: >- # this means to ignore newlines until "baseurl:"
-  SARnet2 was made by me for viewers like you. Thank you!
+description: "Seb Angel-Riano: systems administrator. Projects, notes and resume. CCNA certified."
 # baseurl: "/home" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 bluesky_username: seb-ar.net
 github_username:  carnoo
 
+collections:
+  pastprojects:
+    output: true                        # without this, Jekyll reads the files but publishes nothing
+    permalink: /projects/:name/         # URL pattern for each project page
 
 
 # Build settings

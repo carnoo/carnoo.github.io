@@ -10,7 +10,7 @@ image: /assets/images/5367banner.png
  
 *Look ma, no CSS!*
 
-LIS 5367 was a class I took in Summer 2023 for my Masters of Science in Information Technology degree from Florida State University, taught by Dr. John Marks IV. This course was what sprurned me to rebuild this website! This website is the ongoing final project.
+LIS 5367 was a class I took in Summer 2023 for my Master of Science in Information Technology degree from Florida State University, taught by Dr. John Marks IV. This course was what spurred me to rebuild this website! This website is the ongoing final project.
 
 ![banner]({{page.image}})
 

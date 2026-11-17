@@ -21,12 +21,12 @@ My current website is about three years old at this point and has had the taglin
 
 ### Initial Goals for webpage:
 
-In order for me to consider this project somewhat of a success, the SARnet2 should delivier on these goals:
+In order for me to consider this project somewhat of a success, the SARnet2 should deliver on these goals:
 
-- One size fits all. The website should be mobile friendly, and look good on desktop. SARnet1 does not do this and it is embarrasing!
+- One size fits all. The website should be mobile friendly, and look good on desktop. SARnet1 does not do this and it is embarrassing!
 - SARnet2 will be updated with all projects I've done over the years, with a link to my resume...even if it's basically my resume. 
 - Updating shouldn't happen *too* often, but I'd like for it not to be painful, when I do have to do so. 
 - Finally, it shouldn't be ugly—the last design was, uh, divisive? Keep the colors clean and dark mode friendly is the goal this time.
 
-### Summer 2025 Update: Patch Notes have been moved! They can now be found [HERE!](/_posts/2025-06-07-patchnotes.md) 
+### Summer 2025 Update: Patch Notes have been moved! They can now be found [HERE!](/patchnotes/)
 

@@ -2,7 +2,6 @@
 layout: post
 title: project:beatLink
 permalink: /beatlink/
-css: ./_site/css/main.css
 image: /assets/images/bll2.png
 ---
 
@@ -27,7 +26,7 @@ Finally, once the bot is done and stable locally, I plan on pushing the project 
 #### Preproduction
 I started out my production of beatLink by learning quickly that getting a bot of this scale off the ground and feature complete was going to be a lot more difficult than I imagined. When I looked up solutions to the goal I had, I found about a dozen ways of doing what I wanted, all with varying difficulties of execution. I ultimately want this project to be something that I put together, not some copy-paste job where I take someone else’s bot and host it myself on an Amazon EC2 instance. I needed something to consolidate all this information I had in front of me and push me in one direction so I could get started. 
 
-Initial research wasn’t very productive. There’s a lot of ways to build an application that serves the needs I wanted to address. But with the breadth of options came a minefield of solutions that have been depreciated, don’t do exactly what I need,  or copy-paste jobs that don’t allow me to learn anything.  If I went with the last option,  then post launch support wouldn’t be easy or viable for later. I want to stick with this project long term, and expand its offerings down the road, after this class. 
+Initial research wasn’t very productive. There’s a lot of ways to build an application that serves the needs I wanted to address. But with the breadth of options came a minefield of solutions that have been deprecated, don’t do exactly what I need,  or copy-paste jobs that don’t allow me to learn anything.  If I went with the last option,  then post launch support wouldn’t be easy or viable for later. I want to stick with this project long term, and expand its offerings down the road, after this class. 
 
 For Project:beatLink,  I wanted to create a script that would become a bot for Discord, that would have commands to find audio on YouTube, join a voice channel, and then stream that audio to said voice channel, and finally be hosted on a cloud server. After extensive searching, I found my starting point through Discord.js’s  documentation. The best thing it did for me was break down the prompt into different steps. I’ll elaborate on this in my conclusions, but I severely underestimated how big this project was going to be. 
 
@@ -37,7 +36,7 @@ The first step was to get a bot registered with the Discord Developer Portal. I�
 Here's where I went ahead with branding. I’m not much of a graphic designer, but I spent ten thousand years in Photoshop and produced the logo you saw on the cover page of this paper. 
 
 The next (long) step is building the thing. Most Discord bots are written in either Node.js or Python, but in my experience, there’s more resources out there for Node.js, so I went with that. Node.js has a library that’s used to hook up to the Discord API called Discord.js. After setting up Node.js locally and then installing Discord.js, I was ready to start building the foundation of the bot. 
-Foundational work mostly consisted of getting the bot connected to Discord  by adding it’s authentication token to certain spots in the bot’s code. Since the bot will be of some scale, commands aren’t stored in the central index.js file, but rather in a folder and cataloged subfolders. From this point, I took a step back to test before continuing with implementing the next two libraries that I’d be using: ffmpeg and youtube-dl. 
+Foundational work mostly consisted of getting the bot connected to Discord  by adding its authentication token to certain spots in the bot’s code. Since the bot will be of some scale, commands aren’t stored in the central index.js file, but rather in a folder and cataloged subfolders. From this point, I took a step back to test before continuing with implementing the next two libraries that I’d be using: ffmpeg and youtube-dl. 
 
 Here's where I ran into my first real bug that wasn’t syntax or something small: I had the bot up and active on Discord, the bot would attempt to answer questions, but it didn’t. After a day and a half of not being able to find the issue, I eventually cracked it as I was not pathing to the commands I had in folder correctly. It was a huge relief to finally get that out of the way, because that meant that the foundational work for the bot was done. I could finally move on to implementing the libraries needed for core functionality. 
 

@@ -8,7 +8,7 @@ image: /assets/images/STIT.png
 ![header]({{page.image}})
 
 
-## This is a course I took as a part of the Master of Information Technology program at Florida State Univeristy. You can find the link [here.](https://bitbucket.org/sa17d/lis5916/src/master/)
+## This is a course I took as a part of the Master of Science in Information Technology program at Florida State University. You can find the link [here.](https://bitbucket.org/sa17d/lis5916/src/master/)
 
 ### Course Description:
 
@@ -41,12 +41,12 @@ At the end of the course, the student will be able to:
         - Jupyter Notebooks Setup
     - A1 Assignment - First Python Assignment
         - Answering Questions
-        - A1 Tip Calculaor, written in Python
+        - A1 Tip Calculator, written in Python
         - Create a Jupyter Notebook or A1TC
 
 2. [Assignment 2: Backwards Engineering and Jupyter Notebooks - A2 README.md](https://bitbucket.org/sa17d/lis5916/src/b5021bafc8b3f000d02542f749281fbeaebed413/a2/README.md)
     - Reverse Engineer Python content 
-        - Post results in Juypter Notebooks enivronment
+        - Post results in Jupyter Notebooks environment
     - Screenshots of resulting code in Jupyter Notebooks
     - Assignment Questions
 
@@ -69,7 +69,7 @@ At the end of the course, the student will be able to:
 
 5. [Assignment 4 - Predictive Analysis (SLR)](https://bitbucket.org/sa17d/lis5916/src/b5021bafc8b3f000d02542f749281fbeaebed413/a4/README.md)
     - Contrast similarities/differences among AI vs. Machine-Learning 
-    - Idenitfy Correlations
+    - Identify Correlations
     - Use Seaborn (data)
     - Graph correlations 
     - Use simple linear regression

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Road to the CCNA - Balancing my SysAdmin workload today with my goals for tomororw.
+title: Road to the CCNA - Balancing my SysAdmin workload today with my goals for tomorrow.
 permalink: /road2CCNAintro/
 ---
 
@@ -18,7 +18,7 @@ Here's one of my lines of thought with gunning for the CCNA. When I approach a p
 
 I'm pursuing foundational knowledge, stuff that I'll be able to use on the regular on top of the specialized systems and services that I maintain in office. I'm using the CCNA as essentially a framework to acquire that knowledge. Kinda how I've used my website as a means to pick up webdev skills and keep version control practices fresh in my mind. 
 
-Additonally, once I actually do get the cert, I feel like it's a good feather in my cap to distinguish myself further for future opportunities. 
+Additionally, once I actually do get the cert, I feel like it's a good feather in my cap to distinguish myself further for future opportunities. 
 
 ### So that's the Intro. Mostly.
 

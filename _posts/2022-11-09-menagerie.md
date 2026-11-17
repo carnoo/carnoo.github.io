@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Menagrie for Discord"
+title:  "Menagerie for Discord"
 date:   2022-11-09 13:11:01 -0500
 image: /assets/images/beaverdemo.png
 ---
@@ -10,7 +10,7 @@ image: /assets/images/beaverdemo.png
 ## Connection Error identification and tracking for Destiny 2, all within Discord. No Bungie API required.
 
 **In a Nutshell:**
-Menagerie is a chat bot built for the Discord chat client for use by players of Destiny 2, developed by Bungie, Inc. Menagerie was designed as a support to for players for when the Bungie.net API experienced issues due to high load or maitenence. Menagerie allows players to understand the error codes they encounter during gameplay and how to alleviate issues. 
+Menagerie is a chat bot built for the Discord chat client for use by players of Destiny 2, developed by Bungie, Inc. Menagerie was designed as a support for players for when the Bungie.net API experienced issues due to high load or maintenance. Menagerie allows players to understand the error codes they encounter during gameplay and how to alleviate issues. 
 
 **Technical Aspects**
 Required figuring out what language would be best for the job (JavaScript), understanding what elements of the Discord API would be used, establishing an update pipeline, and working out how to get the bot hosted and running 24/7.
@@ -21,4 +21,4 @@ As you might've guessed, I'm a big fan of Bungie's Destiny series. Menagerie was
 **Goals for this Project:**
 The goal of this project is honestly just get it out of the door before the release of Destiny 2: Beyond Light, the newest expansion of Destiny 2, releasing November 10. At the very least, it'll see use by my Destiny 2 Clan, and hey, maybe it blows up. Who knows. Depending on the success of the project, Menagerie 1.0 may see future expansion with other features, such as linking Raiding strategies or something. 
 
-#### Status:Shipped November 09, 2020. (Now defuct due to Discord updating their API a while back.)
+#### Status:Shipped November 09, 2020. (Now defunct due to Discord updating their API a while back.)
