@@ -2,9 +2,9 @@
 layout: post
 title: Resume
 permalink: /resume/
-css: ./_site/css/main.css
+
 
 ---
 ## If you want my resume, you can find it....
 
-[here](/assets/Resume26RTS.pdf)
+[here](/assets/Sebastian_Angel-Riano_Systems_Administrator_t.pdf)
